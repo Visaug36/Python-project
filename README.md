@@ -1,2 +1,2 @@
-# Python-project
-A python program
+# Python-Project.
+A set of python programs I made.
